@@ -5,6 +5,6 @@
 #' @return
 #' @export
 #'
-chapter_9_print <- function(){
+chapter_9_tutorial <- function(){
   learnr::run_tutorial('fun_with_factors', package = 'progdata')
 }
