@@ -4,5 +4,5 @@
 #' @export
 #'
 open_guide <- function(){
-  browseURL("https://wiernik-datasci-guide.netlify.app/")
+  browseURL("https://progdata-guide.netlify.app/")
 }
