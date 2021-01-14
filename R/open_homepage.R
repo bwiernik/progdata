@@ -4,5 +4,5 @@
 #' @export
 #'
 open_homepage <- function(){
-  browseURL("https://wiernik-datasci.netlify.app/")
+  browseURL("https://progdata.netlify.app/")
 }
