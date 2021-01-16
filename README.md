@@ -1,1 +1,1 @@
-# progdata
+# Programming with Data `progdata`
