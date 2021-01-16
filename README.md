@@ -2,5 +2,5 @@
 
 ## Links
 
-Course Homepage - https://progdata.netlify.app/
-Course Guide - https://progdata-guide.netlify.app/
+- Course Homepage - https://progdata.netlify.app/
+- Course Guide - https://progdata-guide.netlify.app/
