@@ -14,3 +14,4 @@ BugReports: https://github.com/bwiernik/progdata/issues
 Depends:
     learnr, 
     gradethis
+Remotes: rstudio-education/gradethis
