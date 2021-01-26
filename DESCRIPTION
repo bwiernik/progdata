@@ -14,7 +14,8 @@ BugReports: https://github.com/bwiernik/progdata/issues
 Imports:
     tidyverse,
     gapminder,
-    palmerpenguins
+    palmerpenguins,
+    testthat
 Depends:
     learnr, 
     gradethis

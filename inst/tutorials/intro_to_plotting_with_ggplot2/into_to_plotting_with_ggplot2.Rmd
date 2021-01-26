@@ -25,6 +25,7 @@ By the end of this lesson, you will be able to:
  * Use different geometric objects and aesthetics to explore various plot types.
  
 ### Resources
+
 For me, I learned `ggplot2` from Stack Overflow by googling error messages or “how to … in ggplot2” queries, together with persistence. It might take you a bit longer to make a graph using `ggplot2` if you’re unfamiliar with it, but persistence pays off.
 
 Here are some good walk-throughs that introduce ggplot2, in a similar way to today’s lesson:
@@ -70,7 +71,7 @@ There are also some non-R plotting interfaces that are useful when you need high
 
 ### TL;DR
 
-We’re using `ggplot2` in DataSci.
+We’re using `ggplot2` in ProgData.
 
 ## Just plot it
 
