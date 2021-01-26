@@ -2,7 +2,7 @@
 % Please edit documentation in R/open_guide.R
 \name{open_guide}
 \alias{open_guide}
-\title{Goes to the Data Science and Programming Guide}
+\title{Goes to the Programming with Data Guide}
 \usage{
 open_guide()
 }
@@ -10,5 +10,5 @@ open_guide()
 
 }
 \description{
-Goes to the Data Science and Programming Guide
+Goes to the Programming with Data Guide
 }

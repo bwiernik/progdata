@@ -2,7 +2,7 @@
 % Please edit documentation in R/open_homepage.R
 \name{open_homepage}
 \alias{open_homepage}
-\title{Goes to the Data Science and Programming class homepage}
+\title{Goes to the Programming with Data class homepage}
 \usage{
 open_homepage()
 }
@@ -10,5 +10,5 @@ open_homepage()
 
 }
 \description{
-Goes to the Data Science and Programming class homepage
+Goes to the Programming with Data class homepage
 }
