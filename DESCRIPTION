@@ -1,16 +1,16 @@
 Package: progdata
 Type: Package
-Title: Tutorials for USF Data Science and Programming
-Version: 0.1.0
+Title: Tutorials for USF Programming with Data
+Version: 0.1.1
 Author: Brenton Wiernik & Wesley Gardiner
 Maintainer: Wesley Gardiner <wesley.gardiner4546@gmail.com>
-Description: This package holds the tutorials used for the Data Science and Programming class
-    at the University of South Florida
+Description: This package holds the tutorials used for the Programming with Data class at the University of South Florida
 License: MIT
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1
-URL: https://github.com/wesley4546/progdata
-BugReports: https://github.com/wesley4546/progdata/issues
+URL: https://github.com/bwiernik/progdata
+BugReports: https://github.com/bwiernik/progdata/issues
 Depends:
     learnr
+    gradethis
